@@ -1,0 +1,36 @@
+PODS:
+  - IQKeyboardManagerSwift (6.3.0)
+  - Realm (3.15.0):
+    - Realm/Headers (= 3.15.0)
+  - Realm/Headers (3.15.0)
+  - RealmSwift (3.15.0):
+    - Realm (= 3.15.0)
+  - Sourcery (0.16.1)
+  - SwiftyMocky (3.2.0):
+    - SwiftyMocky/Core (= 3.2.0)
+  - SwiftyMocky/Core (3.2.0):
+    - Sourcery (> 0.16)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RealmSwift
+  - SwiftyMocky
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - Realm
+    - RealmSwift
+    - Sourcery
+    - SwiftyMocky
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  Realm: 9b834e1be6062f544805252c812348872dc5d4ed
+  RealmSwift: 8a41886f8ab6efef9eb8df97de2f2bb911561a79
+  Sourcery: 16779170d35ee204666843b09031f36721a84bcc
+  SwiftyMocky: 20ee055796bb023142e83a23bee86d43ecb6c29a
+
+PODFILE CHECKSUM: 9fdfe5c8f33c8c1c91e70e4316a16eedf8fd53ec
+
+COCOAPODS: 1.5.3
